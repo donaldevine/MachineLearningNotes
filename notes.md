@@ -26,11 +26,17 @@ TensorFlow.js combines:
 
 # Neural Networks
 
- ### Simple example (2 inputs, one output):
+ ## Simple example (2 inputs, one output):
 
 * Each input has a feature and a weighting (constant).
 * Multiply feature by weighting for each input
 * Add the results.
 * Pass them through an Activation Function. 
 * The result is the output.
+
+
+# Back Propagation 
+* How do you tune the weights so that you get the correct output?
+* This involves you telling the system how wrong it is.
+* You pass the same data in and adjust the weights until you get the correct ouput.
 
