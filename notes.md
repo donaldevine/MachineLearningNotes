@@ -1,5 +1,8 @@
 # Machine Learning Notes
 
+## Introduction
+* Machine Leaning outputs probabilities
+
 ## Supervised Learning
 
 * Supervised Learning: Use training data with labels.
@@ -23,6 +26,7 @@ TensorFlow.js combines:
 
 * Core API - low level
 * Layers API - higher level abstraction
+* Pre-trained models are available [here](https://www.tensorflow.org/js/models). 
 
 # Neural Networks
 
