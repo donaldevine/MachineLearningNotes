@@ -13,6 +13,18 @@
 
 * Once that Model is in place you can give it an unknown input and it can make conclusions.
 
+## Supervised learning categories
+There are 2 Supervised learning categories:
+* Regression
+* Classification
+
+### Regression
+* Prediction
+* Map input variables to some continuous function
+
+### Classification
+* Classify data
+* Map data into discrete categories
 
 ## Unsupervised learning
 
