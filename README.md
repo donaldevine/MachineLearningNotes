@@ -21,10 +21,12 @@ There are 2 Supervised learning categories:
 ### Regression
 * Prediction
 * Map input variables to some continuous function
+* e.g Predict house prices
 
 ### Classification
 * Classify data
 * Map data into discrete categories
+* e.g. classify images
 
 ## Unsupervised learning
 
